@@ -5,7 +5,7 @@ Home: https://github.com/tlx/tlx
 
 Package license: BSL-1.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: tlx is a collection of C++ helpers and extensions universally needed, but not found in the STL.
 
